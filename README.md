@@ -1,64 +1,74 @@
 Huddle Landing Page with Alternating Feature Blocks
+
 🌐 Overview
 This is a responsive landing page built as part of a Frontend Mentor challenge. The page showcases the Huddle platform with alternating feature sections, a clear call to action, and a clean, modern layout. It was built using HTML, CSS, and JavaScript and deployed via Vercel.
 
+
 The goal of this project was to strengthen my front-end development skills, particularly in layout design, responsive styling, and code organization.
 
+
 🚀 Live Preview
+
 👉 View Live Site on Vercel
-huddle-landing-page-r.vercel.app 
+
+huddle-landing-page-r.vercel.app
+
 
 🛠️ Built With
-HTML5 – Semantic markup and layout structure
+HTML5 – Semantic markup and layout structure.
 
-CSS3 – Custom styling, responsive design
+CSS3 – Custom styling, responsive design.
 
-Flexbox & CSS Grid – Layout organization
+Flexbox & CSS Grid – Layout organization.
 
-JavaScript (Vanilla) – Interactivity
+JavaScript (Vanilla) – Interactivity.
 
-Google Fonts – Custom typography
+Google Fonts – Custom typography.
 
-Visual Studio Code – Code editor
+Visual Studio Code – Code editor.
 
-Vercel – Hosting and deployment platform
+Vercel – Hosting and deployment platform.
 
-Frontend Mentor – Source of the challenge/design
+Frontend Mentor – Source of the challenge/design.
 
 📸 Screenshot
-You can add a screenshot of your project here:
 
-md
-Copy
-Edit
-![Huddle Landing Page Screenshot][alt text](image.png)
+![Huddle Landing Page Screenshot][alt text](image.png).
+
+
 📁 Folder Structure
-bash
-Copy
-Edit
+
 huddle-landing-page/
 │
-├── images/              # All assets and icons
-├── index.html           # Main HTML file
-├── style.css            # CSS styling
-├── script.js            # JS functionality
-├── README.md            # This file
+├── images/ =All assets and icons.
+├── index.html =Main HTML file.
+├── style.css  =CSS styling.
+├── script.js  =JS functionality.
+├── README.md  =This file.
+
+
 ✨ Features
-Responsive design (mobile and desktop)
 
-Alternating feature blocks
+-Responsive design (mobile and desktop).
 
-CTA section with styled buttons
+-Alternating feature blocks.
 
-Clean footer with links and contact info
+-CTA section with styled buttons.
 
-Social media icons
+-Clean footer with links and contact info.
+
+-Social media icons.
+
 
 📚 Acknowledgements
-Frontend Mentor – for the challenge and design
 
-Google Fonts – for font styling
+-Frontend Mentor – for the challenge and design.
+
+-Google Fonts – for font styling.
+
 
 🙌 Author
-Oluwaseun – https://github.com/Denxzy961/Huddle-landing-page-R 
+
+Oluwaseun – https://github.com/Oluwaseun-Olatunji/Huddle-landing-page-R 
+
 Email: oluwaseunolatunji416@gmail.com 
