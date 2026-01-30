@@ -9,66 +9,47 @@ The goal of this project was to strengthen my front-end development skills, part
 
 🚀 Live Preview
 
-👉 View Live Site on Vercel
-
+👉 View Live Site on Vercel;
 huddle-landing-page-r.vercel.app
 
 
 🛠️ Built With
-HTML5 – Semantic markup and layout structure.
-
-CSS3 – Custom styling, responsive design.
-
-Flexbox & CSS Grid – Layout organization.
-
-JavaScript (Vanilla) – Interactivity.
-
-Google Fonts – Custom typography.
-
-Visual Studio Code – Code editor.
-
-Vercel – Hosting and deployment platform.
-
-Frontend Mentor – Source of the challenge/design.
+HTML5 – Semantic markup and layout structure, CSS3 – Custom styling & responsive design, Flexbox & CSS Grid – Layout organization, JavaScript (Vanilla) – Interactivity, Google Fonts – Custom typography, Visual Studio Code – Code editor, Vercel – Hosting and deployment platform, Frontend Mentor – Source of the challenge/design.
 
 📸 Screenshot
 
-![Huddle Landing Page Screenshot][alt text](image.png).
+![Huddle Landing Page Screenshot][View Screenshot Here](image.png).
 
 
 📁 Folder Structure
 
 huddle-landing-page/
+
 │
+
 ├── images/ =All assets and icons.
+
 ├── index.html =Main HTML file.
+
 ├── style.css  =CSS styling.
+
 ├── script.js  =JS functionality.
+
 ├── README.md  =This file.
 
 
 ✨ Features
 
--Responsive design (mobile and desktop).
-
--Alternating feature blocks.
-
--CTA section with styled buttons.
-
--Clean footer with links and contact info.
-
--Social media icons.
+Responsive design (mobile and desktop), Alternating feature blocks, CTA section with styled buttons, Clean footer with links and contact info, Social media icons.
 
 
 📚 Acknowledgements
 
--Frontend Mentor – for the challenge and design.
-
--Google Fonts – for font styling.
+Frontend Mentor – for the challenge and design, Google Fonts – for font styling.
 
 
 🙌 Author
 
 Oluwaseun – https://github.com/Oluwaseun-Olatunji/Huddle-landing-page-R 
 
-Email: oluwaseunolatunji416@gmail.com 
+Email: olatunjioluwaseun512@gmail.com 
