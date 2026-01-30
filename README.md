@@ -18,7 +18,7 @@ HTML5 – Semantic markup and layout structure, CSS3 – Custom styling & respon
 
 📸 Screenshot
 
-![Huddle Landing Page Screenshot][View Screenshot Here](image.png).
+[Huddle Landing Page Screenshot][View Screenshot Here](image.png).
 
 
 📁 Folder Structure
